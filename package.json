@@ -1,0 +1,44 @@
+{
+  "name": "handlebar-sass-boilerplate",
+  "version": "1.0.0",
+  "description": "-",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdheDwi/handlebarSass-Boilerplate.git"
+  },
+  "keywords": [
+    "sass",
+    "handlebar",
+    "html",
+    "css"
+  ],
+  "author": "Adhe Dwi Waliyanto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdheDwi/handlebarSass-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/AdheDwi/handlebarSass-Boilerplate#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-compile-handlebars": "^0.6.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.7.0",
+    "gulp-filelist": "^2.0.3",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2"
+  },
+  "devDependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0"
+  }
+}
